@@ -1,0 +1,77 @@
+body {
+    font-family: 'Alkatra', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(22, 3, 3);
+}
+
+span {
+    color: rgb(213, 6, 175);
+}
+
+.flex {
+    display: flex;
+
+}
+
+
+.half-width {
+    width: 50%;
+    padding-left: 4%;
+}
+
+.half-width img {
+    width: 700px;
+    height: 600px;
+    margin-top: 150px;
+}
+
+.link-button {
+    color: rgb(18, 2, 2);
+    font-weight: 800;
+    text-decoration: none;
+    background-image: linear-gradient(rgba(229, 141, 131, 0.195), rgb(150, 30, 9));
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.about {
+    background-color: rgba(168, 213, 174, 0.419);
+
+    margin: 10% 10%;
+    padding: 90px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.grey {
+    color: rgba(41, 41, 45, 0.438);
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 2%;
+    font-size: 40px;
+}
+
+.card {
+    display: flex;
+    margin: 7%;
+    margin-top: -2%;
+    padding: 30px;
+}
+
+.box {
+
+    margin-left: 40px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 6px 5px rgba(128, 128, 128, 0.23);
+}
+
+footer p {
+    text-align: center;
+}
